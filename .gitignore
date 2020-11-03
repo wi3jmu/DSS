@@ -1,4 +1,5 @@
 tutorial_slides/*
+.gitignore
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
